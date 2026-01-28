@@ -1,4 +1,6 @@
 📊 Sales Analysis Report (Power BI)
+![Sales Analysis Dashboard Preview](Sales_report.png)
+
 📌 Project Overview
 
 This project is an interactive Sales Analysis Dashboard built in Power BI to analyze sales performance across countries, categories, segments, and years. It provides business-ready insights using KPI cards, slicers, and visual analytics.
